@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Weather\bin\Debug\net8.0\Weather.exe
+C:\Users\user\source\repos\Weather\bin\Debug\net8.0\Weather.deps.json
+C:\Users\user\source\repos\Weather\bin\Debug\net8.0\Weather.runtimeconfig.json
+C:\Users\user\source\repos\Weather\bin\Debug\net8.0\Weather.dll
+C:\Users\user\source\repos\Weather\bin\Debug\net8.0\Weather.pdb
+C:\Users\user\source\repos\Weather\obj\Debug\net8.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Weather\obj\Debug\net8.0\Weather.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Weather\obj\Debug\net8.0\Weather.AssemblyInfo.cs
+C:\Users\user\source\repos\Weather\obj\Debug\net8.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Weather\obj\Debug\net8.0\Weather.sourcelink.json
+C:\Users\user\source\repos\Weather\obj\Debug\net8.0\Weather.dll
+C:\Users\user\source\repos\Weather\obj\Debug\net8.0\refint\Weather.dll
+C:\Users\user\source\repos\Weather\obj\Debug\net8.0\Weather.pdb
+C:\Users\user\source\repos\Weather\obj\Debug\net8.0\Weather.genruntimeconfig.cache
+C:\Users\user\source\repos\Weather\obj\Debug\net8.0\ref\Weather.dll
